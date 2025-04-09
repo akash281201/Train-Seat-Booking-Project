@@ -22,9 +22,11 @@ functionality for this application
 
 ## 🖼️ Screenshot
 
-![Screenshot](./assets/11.png)
-![Screenshot](./assets/22.png)
-![Screenshot](./assets/22.png)
+![Screenshot](frontend/public/assets/11.png)
+![Screenshot](frontend/public/assets/22.png)
+![Screenshot](frontend/public/assets/22.png)
+
+
 
 ## Backend Installation
 - clone repo
