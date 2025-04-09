@@ -21,7 +21,9 @@ functionality for this application
 - MongoDB
 
 ## Screenshot
-<img src="https://res.cloudinary.com/dfrhy6m3m/image/upload/v1689589749/dnd7h6s237vrgnpnt4fa.png" />
+<img src="C:\Users\asus\Downloads\11.png" />
+<img src="C:\Users\asus\Downloads\22.jpg" />
+<img src="C:\Users\asus\Downloads\33.jpg" />
 
 ## Backend Installation
 - clone repo
