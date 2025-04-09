@@ -25,10 +25,11 @@ functionality for this application
 ![Screenshot](frontend/public/assets/11.png)
 
 ### Second Screenshot
-![Screenshot](frontend/public/assets/22.png)
+![Screenshot](frontend/public/assets/22.jpg)
 
 ### Third Screenshot
-![Screenshot](frontend/public/assets/33.png)
+![Screenshot](frontend/public/assets/33.jpg)
+
 
 
 ## Backend Installation
