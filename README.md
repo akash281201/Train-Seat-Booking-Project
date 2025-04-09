@@ -20,10 +20,11 @@ functionality for this application
 - Express js
 - MongoDB
 
-## Screenshot
-<img src="C:\Users\asus\Downloads\11.png" />
-<img src="C:\Users\asus\Downloads\22.jpg" />
-<img src="C:\Users\asus\Downloads\33.jpg" />
+## 🖼️ Screenshot
+
+![Screenshot](./assets/11.png)
+![Screenshot](./assets/22.png)
+![Screenshot](./assets/22.png)
 
 ## Backend Installation
 - clone repo
