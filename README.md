@@ -21,11 +21,14 @@ functionality for this application
 - MongoDB
 
 ## 🖼️ Screenshot
-
+### First Screenshot
 ![Screenshot](frontend/public/assets/11.png)
-![Screenshot](frontend/public/assets/22.png)
-![Screenshot](frontend/public/assets/33.png)
 
+### Second Screenshot
+![Screenshot 1](frontend/public/assets/22.png)
+
+### Third Screenshot
+![Screenshot 2](frontend/public/assets/33.png)
 
 
 ## Backend Installation
